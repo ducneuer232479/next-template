@@ -1,0 +1,5 @@
+export { default as LogoTextIcon } from './LogoText'
+export { default as FacebookIcon } from './Facebook'
+export { default as TwitterIcon } from './Twitter'
+export { default as TelegramIcon } from './Telegram'
+export { default as CrownIcon } from './Crown'
